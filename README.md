@@ -1,4 +1,4 @@
-# JavaSE-4.Objects_LifeCycle
+# JavaSE-4.ObjectsLifeCycle
 
 In Java, the lifecycle of an object refers to its creation, usage, and eventual destruction by the garbage collector. Let me walk you through the different stages with some examples:
 
